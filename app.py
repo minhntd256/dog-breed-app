@@ -3,6 +3,7 @@ from flask import Flask, flash, request, redirect, url_for
 from werkzeug.utils import secure_filename
 
 from predict import predict
+from data import description
 import numpy as np
 
 UPLOAD_FOLDER = './images'
@@ -24,15 +25,18 @@ def predictImg(path):
     return {
         'top1': {
             'name': dog_breeds[temp[0]],
-            'percent': "{:.2f}".format(result[temp[0]] * 100)
+            'percent': "{:.2f}".format(result[temp[0]] * 100),
+            'detail': description[temp[0]],
         },
         'top2' : {
             'name': dog_breeds[temp[1]], 
-            'percent': "{:.2f}".format(result[temp[1]] * 100)
+            'percent': "{:.2f}".format(result[temp[1]] * 100),
+            'detail': description[temp[1]],
         },
         'top3' : {
             'name': dog_breeds[temp[2]], 
-            'percent': "{:.2f}".format(result[temp[2]] * 100)
+            'percent': "{:.2f}".format(result[temp[2]] * 100),
+            'detail': description[temp[2]],
         },
     }
 
