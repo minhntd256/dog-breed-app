@@ -1,10 +1,11 @@
 description = [
     {
         'name': 'affenpinscher',
+        'another_name': 'Affenpinscher',
         'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Borismindre.jpg/340px-Borismindre.jpg',
         'weight': '2,9 – 6 kg (Trưởng thành)',
         'height': '23 – 30 cm (Trưởng thành)',
-        'description': 'Một con chó Affenpinscher thường nặng 6,5 đến 13,2 pounds (2,9-6,0 kg) và cao từ 9 đến 12 inch (23 đến 30 cm) tính đến vai. Nó có một lớp lông thô ráp nếu không bị cắt tỉa, và nếu được cắt tỉa, lớp lông này có thể mềm hơn. Lớp lông của nó xù xì hơn trên đầu và vai tạo thành bờm, với lông ngắn hơn trên lưng. Lông của nó cứng và xù xì khi được cắt tỉa đúng cách.',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_Affenpinscher',
         'origin': 'Đức, Pháp'
     },
     {
@@ -177,11 +178,12 @@ description = [
     },
     {
         'name': 'brabancon_griffon',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Griffon Brussels',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/2/23/Monkey_Bizniz_Drama_Queen.jpg',
+        'weight': '8-10 pound (4-5 kg)',
+        'height': '9-11 inch (23-28 cm)',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_Griffon_Brussels',
+        'origin': 'Bỉ'
     },
     {
         'name': 'briard',
@@ -193,11 +195,12 @@ description = [
     },
     {
         'name': 'brittany_spaniel',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Epagneul_Breton.jpg/1200px-Epagneul_Breton.jpg',
+        'another_name': 'Brittany Spaniel',
+        'weight': '16 – 18 kg (35 - 40 pounds)',
+        'height': '43 – 53 cm (17 - 21 inches)',
+        'description': 'https://vi.wikipedia.org/wiki/Brittany_Spaniel',
+        'origin': 'Đại Anh, Pháp'
     },
     {
         'name': 'bull_mastiff',
@@ -297,11 +300,12 @@ description = [
     },
     {
         'name': 'dingo',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Chó Dingo',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/9/98/Dingo_walking.jpg',
+        'weight': 'Trung bình nặng 15,8 kg (35 lb)',
+        'height': 'Trung bình cao 125 cm (49 in)',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_Dingo',
+        'origin': 'Châu Úc'
     },
     {
         'name': 'doberman',
@@ -369,19 +373,21 @@ description = [
     },
     {
         'name': 'german_shepherd',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Chó chăn cừu Đức',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/d/d6/GermanShep1_wb.jpg',
+        'weight': '30–40 kg (66–88 lb)',
+        'height': '60–65 cm (24–26 in)',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_ch%C4%83n_c%E1%BB%ABu_%C4%90%E1%BB%A9c',
+        'origin': 'Đức'
     },
     {
         'name': 'german_short-haired_pointer',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/b/bc/GermanShorthPtr_wb.jpg',
+        'weight': '25–32 kg',
+        'another_name': 'German Shorthaired Pointer',
+        'height': '59–64 cm',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_s%C4%83n_l%C3%B4ng_ng%E1%BA%AFn_%C4%90%E1%BB%A9c',
+        'origin': 'Đức'
     },
     {
         'name': 'giant_schnauzer',
@@ -433,11 +439,12 @@ description = [
     },
     {
         'name': 'groenendael',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Chó Groenendael',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Groenendael.jpg/600px-Groenendael.jpg',
+        'weight': '25–30 kg (55–66 lb)',
+        'height': '60–66 cm (24–26 in)',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_Groenendael',
+        'origin': 'Bỉ'
     },
     {
         'name': 'ibizan_hound',
@@ -801,11 +808,12 @@ description = [
     },
     {
         'name': 'shih-tzu',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Thạch sư khuyển hay Shih Tzu',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rusty_-_Shih_Tsu.jpg/600px-Rusty_-_Shih_Tsu.jpg',
+        'weight': '4–7,25 kilôgam (8,8–16,0 lb)',
+        'height': '20–28 xentimét (7,9–11,0 in)',
+        'description': 'https://vi.wikipedia.org/wiki/Shih_Tzu',
+        'origin': 'Tây Tạng'
     },
     {
         'name': 'siberian_husky',
@@ -897,19 +905,21 @@ description = [
     },
     {
         'name': 'vizsla',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/8/89/Vizsla_02.jpg',
+        'weight': '45–66 lb (20–30 kg)',
+        'another_name': 'Vizsla',
+        'height': '22–25 in (56–64 cm)',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_Vizsla',
+        'origin': 'Hungary'
     },
     {
         'name': 'walker_hound',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Chó săn gấu mèo leo cây Walker',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Treeing-walker-coonhound-standing.jpg/600px-Treeing-walker-coonhound-standing.jpg',
+        'weight': '23-32 kg',
+        'height': '56-69 cm',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_s%C4%83n_g%E1%BA%A5u_m%C3%A8o_leo_c%C3%A2y_Walker',
+        'origin': 'Mỹ'
     },
     {
         'name': 'weimaraner',
@@ -921,11 +931,12 @@ description = [
     },
     {
         'name': 'welsh_springer_spaniel',
-        'img': '',
-        'weight': '',
-        'height': '',
-        'description': '',
-        'origin': ''
+        'another_name': 'Springer Spaniel Wales',
+        'img': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Welsh_Springer_Spaniel_1.jpg/600px-Welsh_Springer_Spaniel_1.jpg',
+        'weight': '25–32 kg',
+        'height': '8–19 in (46–48 cm)',
+        'description': 'https://vi.wikipedia.org/wiki/Ch%C3%B3_Springer_Spaniel_Wales',
+        'origin': 'Wales'
     },
     {
         'name': 'west_highland_white_terrier',
